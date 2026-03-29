@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="subastasLogica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../subastasLogica/out/artifacts/subastasLogica_jar/subastasLogica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
